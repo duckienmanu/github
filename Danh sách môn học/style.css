@@ -1,0 +1,16 @@
+.container{
+    text-align: center;
+   width: 500px;
+   background-color: aliceblue
+}
+#top{
+    background-color: antiquewhite;
+}
+#top2{
+    margin-top:20px ;
+    margin-bottom: 20px;
+    padding: 0 40px 15px 40px;
+}
+#top3{
+    background-color: rgb(255, 240, 240);
+}
